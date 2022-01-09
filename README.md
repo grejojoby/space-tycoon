@@ -28,9 +28,9 @@ So, start now! It is never too late! Play No
 
 ### Screenshots
 
-<img src="./screenshots/1.png" width="47%"  /> <img src="./screenshots/2.png" width="47%"  />
-<img src="./screenshots/3.png" width="47%"  /> <img src="./screenshots/4.png" width="47%"  />
-<img src="./screenshots/5.png" width="47%"  /> 
+<img src="./screenshots/1.png" width="17%"  /> <img src="./screenshots/2.png" width="17%"  />
+<img src="./screenshots/3.png" width="17%"  /> <img src="./screenshots/4.png" width="17%"  />
+<img src="./screenshots/5.png" width="17%"  /> 
 ### Built with
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
@@ -38,6 +38,11 @@ So, start now! It is never too late! Play No
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Authors
+
+ - Atharva Dhanwate   
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-dhanvate-156254170)
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anonymous-baaka)  
+
  - Grejo Joby   
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grejojoby/)
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grejojoby) 
@@ -45,6 +50,10 @@ So, start now! It is never too late! Play No
  - Hayden Cordeiro   
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydencordeiro/)
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydencordeiro)  
+
+ - Hariharan Iyer  
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyerhari9999/)
+ [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IyerHari9999)  
 
 
 
