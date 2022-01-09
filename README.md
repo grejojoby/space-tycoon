@@ -28,9 +28,9 @@ So, start now! It is never too late! Play No
 
 ### Screenshots
 
-<img src="./screenshots/1.jpg" width="47%"  /> <img src="./screenshots/2.jpg" width="47%"  />
-<img src="./screenshots/3.jpg" width="47%"  /> <img src="./screenshots/4.jpg" width="47%"  />
-<img src="./screenshots/5.jpg" width="47%"  /> 
+<img src="./screenshots/1.png" width="47%"  /> <img src="./screenshots/2.png" width="47%"  />
+<img src="./screenshots/3.png" width="47%"  /> <img src="./screenshots/4.png" width="47%"  />
+<img src="./screenshots/5.png" width="47%"  /> 
 ### Built with
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
